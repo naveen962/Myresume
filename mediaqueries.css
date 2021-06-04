@@ -1,0 +1,353 @@
+@media only screen and (max-width:360px){
+
+.img-adj{
+    width: 100%;
+    min-width: 10px;
+    height: 30%;
+   
+    }
+    .container{
+        width: 100%;
+        padding-top: 0px;
+      
+        }
+    .main-section{
+        height: 25px;
+        padding-top: 5px;   
+    }
+
+    .glow{
+        font-size: 0.7rem;
+        }
+        .passport{
+            width:25%
+        }
+    .aboutself{
+        width: 90%;
+        }
+        .pd{
+        font-size: 9px;
+        }
+     #dob{
+            padding-top: 10px;
+        }
+    #nationality{
+            padding-top: 0px;
+        }
+    #gender{
+          padding-top: 0px;
+        }
+     #mob{
+          padding-top: 0px;
+        }
+     #email{
+          padding-top: 0px;
+          }
+    .section1{
+        font-size: 0.6rem;
+        width: 75%;
+    }
+    .aboutself{
+        font-size: 0.6rem ;
+    }
+    table,th,td{
+        padding: 0;
+        font-size: 0.5rem;
+        margin-left: 0px;
+      
+    }
+  
+.seperator{
+    padding-bottom: 0;
+
+}
+.aboutself{
+    padding-top: 10px;
+}
+li{
+    padding: 0px;
+}
+}
+@media only screen and (max-width:420px){
+
+    .img-adj{
+        width: 100%;
+        min-width: 10px;
+        height: 30%;
+       
+        }
+        .container{
+            width: 100%;
+            padding-top: 0px;
+          
+            }
+        .main-section{
+            height: 25px;
+            padding-top: 5px;   
+        }
+    
+        .glow{
+            font-size: 0.7rem;
+            }
+            .passport{
+                width:25%
+            }
+        .aboutself{
+            width: 90%;
+            }
+            .pd{
+            font-size: 9px;
+            }
+         #dob{
+                padding-top: 10px;
+            }
+        #nationality{
+                padding-top: 0px;
+            }
+        #gender{
+              padding-top: 0px;
+            }
+         #mob{
+              padding-top: 0px;
+            }
+         #email{
+              padding-top: 0px;
+              }
+        .section1{
+            font-size: 0.6rem;
+            width: 75%;
+        }
+        .aboutself{
+            font-size: 0.6rem ;
+        }
+        table,th,td{
+            padding: 0;
+            font-size: 0.5rem;
+            margin-left: 0px;
+          
+        }
+      
+    .seperator{
+        padding-bottom: 0;
+    
+    }
+    .aboutself{
+        padding-top: 10px;
+    }
+    li{
+        padding: 0px;
+    }
+    }
+    @media only screen and (max-width:768px){
+
+        .img-adj{
+            width: 100%;
+            min-width: 10px;
+            height: 30%;
+           
+            }
+            .container{
+                width: 100%;
+                padding-top: 0px;
+              
+                }
+            .main-section{
+                height: 25px;
+                padding-top: 5px;   
+            }
+        
+            .glow{
+                font-size: 0.7rem;
+                }
+                .passport{
+                    width:25%
+                }
+            .aboutself{
+                width: 90%;
+                }
+                .pd{
+                font-size: 9px;
+                }
+             #dob{
+                    padding-top: 10px;
+                }
+            #nationality{
+                    padding-top: 0px;
+                }
+            #gender{
+                  padding-top: 0px;
+                }
+             #mob{
+                  padding-top: 0px;
+                }
+             #email{
+                  padding-top: 0px;
+                  }
+            .section1{
+                font-size: 0.6rem;
+                width: 75%;
+            }
+            .aboutself{
+                font-size: 0.6rem ;
+            }
+            table,th,td{
+                padding: 0;
+                font-size: 0.5rem;
+                margin-left: 0px;
+              
+            }
+          
+        .seperator{
+            padding-bottom: 0;
+        
+        }
+        .aboutself{
+            padding-top: 10px;
+        }
+        li{
+            padding: 0px;
+        }
+        }
+        
+        @media only screen and (max-width:1024px){
+
+            .img-adj{
+                width: 100%;
+                min-width: 10px;
+                height: 30%;
+               
+                }
+                .container{
+                    width: 100%;
+                    padding-top: 0px;
+                  
+                    }
+                .main-section{
+                    height: 25px;
+                    padding-top: 5px;   
+                }
+            
+                .glow{
+                    font-size: 0.7rem;
+                    }
+                    .passport{
+                        width:25%
+                    }
+                .aboutself{
+                    width: 90%;
+                    }
+                    .pd{
+                    font-size: 9px;
+                    }
+                 #dob{
+                        padding-top: 10px;
+                    }
+                #nationality{
+                        padding-top: 0px;
+                    }
+                #gender{
+                      padding-top: 0px;
+                    }
+                 #mob{
+                      padding-top: 0px;
+                    }
+                 #email{
+                      padding-top: 0px;
+                      }
+                .section1{
+                    font-size: 0.6rem;
+                    width: 75%;
+                }
+                .aboutself{
+                    font-size: 0.6rem ;
+                }
+                table,th,td{
+                    padding: 0;
+                    font-size: 0.5rem;
+                    margin-left: 0px;
+                  
+                }
+              
+            .seperator{
+                padding-bottom: 0;
+            
+            }
+            .aboutself{
+                padding-top: 10px;
+            }
+            li{
+                padding: 0px;
+            }
+            }
+            
+            @media only screen and (max-width:280px){
+
+                .img-adj{
+                    width: 100%;
+                    min-width: 10px;
+                    height: 30%;
+                   
+                    }
+                    .container{
+                        width: 100%;
+                        padding-top: 0px;
+                      
+                        }
+                    .main-section{
+                        height: 25px;
+                        padding-top: 5px;   
+                    }
+                
+                    .glow{
+                        font-size: 0.7rem;
+                        }
+                        .passport{
+                            width:25%
+                        }
+                    .aboutself{
+                        width: 90%;
+                        }
+                        .pd{
+                        font-size: 9px;
+                        }
+                     #dob{
+                            padding-top: 10px;
+                        }
+                    #nationality{
+                            padding-top: 0px;
+                        }
+                    #gender{
+                          padding-top: 0px;
+                        }
+                     #mob{
+                          padding-top: 0px;
+                        }
+                     #email{
+                          padding-top: 0px;
+                          }
+                    .section1{
+                        font-size: 0.5rem;
+                        width: 75%;
+                    }
+                    .aboutself{
+                        font-size: 0.5rem ;
+                    }
+                    table,th,td{
+                        padding: 0;
+                        font-size: 0.5rem;
+                        margin-left: 0px;
+                      
+                    }
+                  
+                .seperator{
+                    padding-bottom: 0;
+                
+                }
+                .aboutself{
+                    padding-top: 10px;
+                }
+                li{
+                    padding: 0px;
+                }
+                }
+                

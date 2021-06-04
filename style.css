@@ -1,0 +1,186 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .container{
+    width: 80%;
+    margin:auto ;
+    padding-left: 4px;
+    padding-top: 20px;
+    border: 1px solid black
+  }
+  .main-section{
+      width: 100%;
+      background-color: black;
+      color:white;
+      display: flex; 
+      height: 50px;
+      padding-top: 10px;
+      
+  }
+ 
+  
+  .seperator{
+    padding-bottom: 10px;
+}
+  .main-section1{
+    width: 100%;
+    display: flex; 
+   
+
+  }
+  .passport{
+      width: 20%;
+      background-color: lightgray;
+     
+  }
+  .img-adj{
+    width: 100%;
+    height: 200px;
+    min-width: 112px;
+    border-radius: 100%;
+    border: 1px solid red;
+  }
+
+  .aboutself{
+      padding-top: 20px; 
+      width: 100%;
+    }
+    
+    .pd{
+      background-color: black;
+      color: white;
+      border: 1px solid red;
+      border-radius: 50%;
+      text-align: center;
+      
+      
+    }
+
+  #dob{
+      padding-top: 20px;
+  }
+ #nationality{
+      padding-top: 10px;
+  }
+  #gender{
+    padding-top: 10px;
+  }
+   #mob{
+    padding-top: 10px;
+  }
+    #email{
+    padding-top: 10px;
+   
+  }
+
+ .lst-style{
+   margin-left: 1em;
+   /* padding-bottom: 10px; */
+ }
+    
+   li{ 
+    padding-top: 10px;
+    
+  }
+  
+  .section1{
+      width: 80%;
+      padding-left:  4px;
+      background-color: lightyellow;
+     
+  }
+  .header{
+    background-color:lightblue;
+  }
+
+ .header:hover{
+   width: 30%;
+   height: 4%;
+   border: 2px solid red;
+   background-color: black;
+   color: white;
+   text-align: center;
+   border-radius: 50%;
+
+ }
+.seperator1{
+  padding-bottom: 0px;
+}
+.paragraph{
+  background-color: lightgrey;
+  text-align: justify ;
+}
+ .paragraph:hover{
+  
+   border: 2px solid red;
+   background-color: gray;
+   font-style: inherit;
+   color:white;
+  
+ }
+ .seperator2{
+   padding-bottom: 0px;
+   padding-top: 5px;  
+ }
+ .seperator3{
+   padding-bottom: 10px;
+ }
+ table,th,td{
+   border: 1px solid black;
+   border-collapse: collapse;
+   text-align: center;
+   padding:10px;
+   margin-left: 17px;
+   background-color: lightgrey;
+ }
+th,td:hover{
+ border: 2px solid red;
+ background-color: gray;
+ color:white;
+ }
+
+.seperator4{
+  padding-bottom: 20px;
+  padding-top: 10px;
+
+}
+.sub-header{
+  
+  background-color:brown;
+  color:white;
+ 
+}
+
+.skillsets{
+  background-color: lightgray;
+  width: 100%;
+}
+.skillsets:hover{
+  border: 2px solid red;
+  background-color: gray;
+  font-style: inherit;
+  color:white;
+}
+
+
+.skills{
+  display: flex;
+}
+.technologies{
+  padding-bottom: 10px;
+}
+
+.skills div:first-child{
+  width: 40%;
+}
+.skills div:last-child{
+  width: 60%;
+}
+
+.progressbar{
+  width: 95%;
+ 
+  
+}
